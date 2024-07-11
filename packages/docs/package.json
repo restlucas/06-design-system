@@ -1,5 +1,5 @@
 {
-  "name": "docs",
+  "name": "@restlucas-ignite-ui/docs",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -23,9 +23,9 @@
   },
   "devDependencies": {
     "@chromatic-com/storybook": "^1.5.0",
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
+    "@restlucas-ignite-ui/eslint-config": "*",
+    "@restlucas-ignite-ui/react": "*",
+    "@restlucas-ignite-ui/tokens": "*",
     "@storybook/addon-essentials": "^8.1.10",
     "@storybook/addon-interactions": "^8.1.10",
     "@storybook/addon-links": "^8.1.10",
